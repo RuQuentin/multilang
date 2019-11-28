@@ -1,0 +1,7 @@
+{
+  "/m.exe*": {
+    "target": "https://www.multitran.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
